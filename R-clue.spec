@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.3_43
-Release:          1
+Release:          2
 Summary:          Cluster ensembles
 Group:            Sciences/Mathematics
 License:          GPL-2
